@@ -1,3 +1,7 @@
+## Team
+Tomo Umer - https://github.com/tomoumer
+Monica Weiss-Sharp - https://github.com/MWeissSharp
+
 # An Analysis of Political Contributions During the 2020 House of Representatives Election
 
 In this part, you will obtain as much data as you can on the campaign contributions received by each candidate. This data is avaiable through the website https://www.opensecrets.org/.
